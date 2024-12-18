@@ -4,7 +4,7 @@ void setup(){
 }
 
 void draw(){
-  background(190,40,105);
+  background(90,45,205);
   textSize(50);
   text("Hello Github",100,100);
 }
